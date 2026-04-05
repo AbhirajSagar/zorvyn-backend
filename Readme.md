@@ -125,6 +125,10 @@ The system supports three user roles with different permission levels:
 | **analyst** | Read access to records and dashboard analytics |
 | **admin** | Full access including user management, record operations, and all dashboard features |
 
+**Default Admin Credentials:**
+**email**: brucewayne@example.com
+**password**: batman123
+
 ## Authentication
 
 The API uses JWT (JSON Web Token) for authentication:
